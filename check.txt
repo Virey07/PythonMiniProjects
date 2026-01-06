@@ -1,0 +1,3 @@
+Hello,
+adding a file here on Github.
+Check whether added on Git clone.
